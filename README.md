@@ -7,31 +7,13 @@
 
 Designed a user-friendly webpage for customizing preferences, featuring options to select a favorite color, adjust brightness, and submit the chosen settings.
 
-## Tasks
-
-
-## Steps Performed- 
-Performed the following tasks:
-
-1. Downloaded the database.
-2. Created test, train, and validation directory variables.
-3. Created train and validation data generator with target size (128,128)
-4. Trained a CNN model
-5. Trained a model with VGG19 model
-6. Used callbacks to save our model at every step
-
-
-**Note:** Training may take several hours, so use 5 to 10 epochs only.
-
-
 ### Features
 
-- User Login & Signup
+- Customizing preferences, featuring options to select a favorite color, adjust brightness, and submit the chosen settings
 
        
 ### Tools used
-- Python3x
-- Jupyter Notebook
+- HTML
 
 
 ### Preview:

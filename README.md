@@ -24,8 +24,6 @@ Designed a user-friendly webpage for customizing preferences, featuring options 
 
 #
 
-
-
 ### Next Updates 
 
 | To Do                     |

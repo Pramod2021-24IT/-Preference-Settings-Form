@@ -22,6 +22,7 @@ Designed a user-friendly webpage for customizing preferences, featuring options 
 
 ![image](https://github.com/Pramod2021-24IT/Preference-Settings-Form/assets/95674009/3ef8c1fe-ba07-4ac7-8610-80080afd911a)
 
+
 #
 
 ### Next Updates 

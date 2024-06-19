@@ -17,7 +17,7 @@ Designed a user-friendly webpage for customizing preferences, featuring options 
 ### Tools used
 - HTML
 
-- 
+
 ### Preview:
 
 ![image](https://github.com/Pramod2021-24IT/Preference-Settings-Form/assets/95674009/5be959ef-27f4-4d6f-a404-3473d0e2a2e8)

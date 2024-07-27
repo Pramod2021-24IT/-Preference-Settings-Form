@@ -7,6 +7,7 @@
 
 Designed a user-friendly webpage for customizing preferences, featuring options to select a favorite color, adjust brightness, and submit the chosen settings.
 
+
 ### Feature
 
 
